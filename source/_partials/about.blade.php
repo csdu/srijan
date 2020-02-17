@@ -1,0 +1,9 @@
+<div class="flex section about">
+  <h2>About</h2>
+  <p>Srijan is the annual magazine of Department of Computer Science, University of Delhi. It is launched every year at Sankalan.</p>
+  <p>Srijan literally translates to "creation.” In the context of this magazine, it is the creation of ideas, design, and models in the realm of computer science and technology.</p>
+  <p>Srijan started with an aim to capture the tremendous advancements in technology and lay out a bigger picture in a few words. Since then, we have been trying to highlight the technological breakthroughs that flabbergasted us over the past year and what lies ahead. Srijan aims at giving a complete roundup of the emerging tech and research in the field of computer science.</p>
+  <p>Writing is not the only activity that employs creativity. Keeping that in mind, the magazine contains poems. Moreover, not being limited to a pen, the magazine offers space for featuring sketches, giving the option of showcasing individuality with a brush, as well. It also contains glimpses of annual activities held at DUCS.</p>
+  <p>This year, Srijan is kept open to all technologies around the world. Due to the advancements in different tech fields such as Artificial Intelligence, Machine Learning, Networking and more, the magazine speaks of all the current development in computer science around the world.</p>
+  <p>Department of Computer Science takes immense pleasure to announce volume-9 of Srijan successfully, with all new enthusiasm and zeal towards a new era of computer science.</p>
+</div>
