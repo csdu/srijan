@@ -1,9 +1,9 @@
 <div class="flex section about">
   <h2>About</h2>
   <p>Srijan is the annual magazine of Department of Computer Science, University of Delhi. It is launched every year at Sankalan.</p>
-  <p>Srijan literally translates to "creation.” In the context of this magazine, it is the creation of ideas, design, and models in the realm of computer science and technology.</p>
-  <p>Srijan started with an aim to capture the tremendous advancements in technology and lay out a bigger picture in a few words. Since then, we have been trying to highlight the technological breakthroughs that flabbergasted us over the past year and what lies ahead. Srijan aims at giving a complete roundup of the emerging tech and research in the field of computer science.</p>
-  <p>Writing is not the only activity that employs creativity. Keeping that in mind, the magazine contains poems. Moreover, not being limited to a pen, the magazine offers space for featuring sketches, giving the option of showcasing individuality with a brush, as well. It also contains glimpses of annual activities held at DUCS.</p>
-  <p>This year, Srijan is kept open to all technologies around the world. Due to the advancements in different tech fields such as Artificial Intelligence, Machine Learning, Networking and more, the magazine speaks of all the current development in computer science around the world.</p>
-  <p>Department of Computer Science takes immense pleasure to announce volume-9 of Srijan successfully, with all new enthusiasm and zeal towards a new era of computer science.</p>
+  <p>Srijan translates to ‘creation’. In the context of this magazine, it is the creation of new ideas, advancements and technologies in computer science and its allied disciplines.</p>
+  <p>Begun with the aim of presenting the latest developments in technology concisely, Srijan has since evolved to provide not only a complete roundup of the emerging tech and research but also examine their consequential social and psychological effects. With the intent to create a comprehensive journal unravelling the mysteries behind mind-boggling innovations, we present the most exciting inventions of 2020.</p>
+  <p>And since all work and no play makes Jack a dull boy, we also showcase the key co-curricular activities at DUCS, highlighting glimpses of annual events held on campus.</p>
+  <p>This year, Srijan showcases novel technologies being developed around the world, while also elucidating advances made in existing ones. Innovations gaining rapid integration in society are examined, and the magazine speaks of all the current development in computer science around the world.</p>
+  <p>Department of Computer Science takes immense pleasure to announce volume-10 of Srijan successfully, with all new enthusiasm and zeal towards a new era of computer science.</p>
 </div>
